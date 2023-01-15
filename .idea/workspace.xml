@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c05cd88a-a64b-42f7-83d3-6c0b2a91ead8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work_100123/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work_100123/Task_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work_100123/Task_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work_100123/Task_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work_100123/Task_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work_100123/Task_qq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work_100123/Сircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work_120123/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work_120123/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work_120123/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work_120123/Task4_fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work_120123/Task5_factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work_120123/Task6_minimumValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work_120123/Task7_triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work_291222/Task_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work_291222/Task_1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work_291222/Task_1_1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work_291222/Task_1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work_291222/Task_1_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work_291222/Task_1_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work_291222/Task_1_5_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work_291222/Task_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work_291222/Task_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work_291222/Task_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work_291222/Task_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work_291222/Task_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work_291222/Task_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work_291222/Task_task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work_291222/task_1_4.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2KN3wlwti2FiEXfXaNEm94IjHEG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/learn_base" />
+      <recent name="$PROJECT_DIR$/src/home_work_291222" />
+      <recent name="$PROJECT_DIR$/src/home_work_100123" />
+      <recent name="$PROJECT_DIR$/src/home_work_120123" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.InputOut">
+    <configuration name="InputOut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InputOut" />
+      <module name="learn_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task7_triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="home_work_120123.Task7_triangle" />
+      <module name="learn_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="home_work_120123.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="home_work_291222.Task_1" />
+      <module name="learn_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="home_work_291222.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InputOut" />
+        <item itemvalue="Application.Task_1" />
+        <item itemvalue="Application.Task7_triangle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c05cd88a-a64b-42f7-83d3-6c0b2a91ead8" name="Changes" comment="" />
+      <created>1673801453654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673801453654</updated>
+      <workItem from="1673801454708" duration="316000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
