@@ -15,12 +15,14 @@ public class Task1_1 {
         System.out.print("Введите натуральное число: ");
         int n = sc.nextInt();
         if (n <= 0) System.out.println("Вы ввели неправильное число!");
-        else System.out.println(getBoolean(n));
+        else getBoolean(n);
 
     }
 
-    public static boolean getBoolean(int n) {
-        if (n % 2 == 0) return true;
-        else return false;
+    public static void getBoolean(int n) {
+        Boolean a = true;
+        Boolean b = false;
+        if (n % 2 == 0) System.out.println(a);
+        else System.out.println(b);
     }
 }

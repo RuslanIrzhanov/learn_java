@@ -21,13 +21,13 @@ public class Task1_2 {
         if (n <= 0) System.out.println("Зарплата не может быть меньше или равна 0!");
         else {
             System.out.print("Премия сотрудника составляет: ");
-            getSalary(n);
+            System.out.println(getSalary(n));
         }
     }
 
-    public static void getSalary(int n) {
-        if (n < 40000) System.out.println(n * 0.5f);
-        else if (n >= 40000 && n < 80000) System.out.println(n * 0.7f);
-        else System.out.println(n * 1.1f);
+    public static float getSalary(int n) {
+        if (n < 40000) return n * 0.5f;
+        else if (n >= 40000 && n < 80000) return n * 0.7f;
+        else return n * 1.1f;
     }
 }
