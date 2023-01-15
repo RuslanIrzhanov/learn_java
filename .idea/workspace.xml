@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c05cd88a-a64b-42f7-83d3-6c0b2a91ead8" name="Changes" comment="Add comment">
-      <change afterPath="$PROJECT_DIR$/src/learn_base/JOptionPane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learn_base/InputOut2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learn_base/DataTypeCasting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,16 +48,9 @@
       <recent name="$PROJECT_DIR$/src/home_work_120123" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JOptionPane">
-    <configuration name="InputOut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InputOut" />
-      <module name="learn_java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JOptionPane" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learn_base.JOptionPane" />
+  <component name="RunManager" selected="Application.DataTypeCasting">
+    <configuration name="DataTypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learn_base.DataTypeCasting" />
       <module name="learn_java" />
       <extension name="coverage">
         <pattern>
@@ -64,6 +58,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InputOut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InputOut" />
+      <module name="learn_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,7 +97,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JOptionPane" />
+        <item itemvalue="Application.DataTypeCasting" />
         <item itemvalue="Application.InputOut" />
         <item itemvalue="Application.Task_1" />
         <item itemvalue="Application.Task7_triangle" />
@@ -111,7 +112,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673801453654</updated>
-      <workItem from="1673801454708" duration="1582000" />
+      <workItem from="1673801454708" duration="2990000" />
     </task>
     <task id="LOCAL-00001" summary="Add comment">
       <created>1673802727591</created>
@@ -120,7 +121,28 @@
       <option name="project" value="LOCAL" />
       <updated>1673802727591</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add comment">
+      <created>1673803071431</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673803071431</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add comment">
+      <created>1673803142963</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673803142963</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add comment">
+      <created>1673803202327</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673803202327</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
