@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c05cd88a-a64b-42f7-83d3-6c0b2a91ead8" name="Changes" comment="Add comment">
-      <change afterPath="$PROJECT_DIR$/src/home_work_120123/Task1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home_work_120123/Task1_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +48,7 @@
       <recent name="$PROJECT_DIR$/src/home_work_120123" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task1_1">
+  <component name="RunManager" selected="Application.Task1_2">
     <configuration name="DataTypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="learn_base.DataTypeCasting" />
       <module name="learn_java" />
@@ -82,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task7_triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="home_work_120123.Task7_triangle" />
+    <configuration name="Task1_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="home_work_120123.Task1_2" />
       <module name="learn_java" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task1_2" />
         <item itemvalue="Application.Task1_1" />
         <item itemvalue="Application.DataTypeCasting" />
         <item itemvalue="Application.InputOut" />
         <item itemvalue="Application.Task_1" />
-        <item itemvalue="Application.Task7_triangle" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +126,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673801453654</updated>
-      <workItem from="1673801454708" duration="3957000" />
+      <workItem from="1673801454708" duration="5410000" />
     </task>
     <task id="LOCAL-00001" summary="Add comment">
       <created>1673802727591</created>
@@ -163,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673804472541</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add comment">
+      <created>1673805703967</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673805703967</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
