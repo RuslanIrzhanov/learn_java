@@ -4,6 +4,9 @@ import java.util.Scanner;
 public class InputOut {
     public static void main(String[] args) {
 
+        // Принимает имя, отчество и год рождения от пользователя.
+        // Выводит приветствие и рассчитывает возраст пользователя.
+
         Scanner sc = new Scanner(System.in);
 
         String name, surName;

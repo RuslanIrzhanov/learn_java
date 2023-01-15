@@ -2,49 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c05cd88a-a64b-42f7-83d3-6c0b2a91ead8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn_java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/home_work_100123/MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/home_work_100123/Task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/home_work_100123/Task_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/home_work_100123/Task_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/home_work_100123/Task_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/home_work_100123/Task_qq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/home_work_100123/Сircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/home_work_120123/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/home_work_120123/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/home_work_120123/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/home_work_120123/Task4_fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/home_work_120123/Task5_factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/home_work_120123/Task6_minimumValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/home_work_120123/Task7_triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/home_work_291222/Task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/home_work_291222/Task_1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/home_work_291222/Task_1_1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/home_work_291222/Task_1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/home_work_291222/Task_1_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/home_work_291222/Task_1_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/home_work_291222/Task_1_5_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/home_work_291222/Task_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/home_work_291222/Task_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/home_work_291222/Task_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/home_work_291222/Task_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/home_work_291222/Task_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/home_work_291222/Task_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/home_work_291222/Task_task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/home_work_291222/task_1_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learn_base/InputOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learn_base/InputOut.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KN3wlwti2FiEXfXaNEm94IjHEG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -118,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673801453654</updated>
-      <workItem from="1673801454708" duration="316000" />
+      <workItem from="1673801454708" duration="1154000" />
     </task>
     <servers />
   </component>
