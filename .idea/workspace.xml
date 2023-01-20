@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c05cd88a-a64b-42f7-83d3-6c0b2a91ead8" name="Changes" comment="Add comment">
-      <change afterPath="$PROJECT_DIR$/src/oop_lesson_190123_animals/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop_lesson_190123_animals/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop_lesson_190123_animals/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop_lesson_190123_animals/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop_lesson_190123_animals/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop_lesson_190123_animals/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop_lesson_190123_triangle/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop_lesson_190123_triangle/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop_lesson_190123_triangle/TriangleComparing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +57,7 @@
       <recent name="$PROJECT_DIR$/src/home_work_120123" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.oop_lesson_190123_animals.Main">
+  <component name="RunManager" selected="Application.oop_lesson_190123_triangle.Main">
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tasks.Factorial" />
       <module name="learn_java" />
@@ -80,19 +77,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="oop_lesson_170123.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="oop_company.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop_company.Main" />
-      <module name="learn_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop_company.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,13 +110,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="oop_lesson_190123_triangle.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop_lesson_190123_triangle.Main" />
+      <module name="learn_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop_lesson_190123_triangle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.oop_lesson_190123_triangle.Main" />
         <item itemvalue="Application.oop_lesson_190123_animals.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.oop_lesson_190123.Main" />
         <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.oop_company.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +144,7 @@
       <workItem from="1673801454708" duration="8693000" />
       <workItem from="1673972665992" duration="10002000" />
       <workItem from="1674056875251" duration="5580000" />
-      <workItem from="1674228848105" duration="16078000" />
+      <workItem from="1674228848105" duration="18671000" />
     </task>
     <task id="LOCAL-00001" summary="Add comment">
       <created>1673802727591</created>
@@ -219,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674241672555</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add comment">
+      <created>1674244982604</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674244982604</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
