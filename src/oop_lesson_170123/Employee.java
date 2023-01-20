@@ -16,22 +16,16 @@ public class Employee extends Person {
         this.id = id;
         this.salary = salary;
 
-        if(salary >= this.age * 1000) {
-            this.isHappy = true;
-        }
-        else {
-            this.isHappy = false;
-        }
+        this.isHappy = salary >= this.age * 1000;
     }
 
     public void setSalary(int salary) {
         System.out.printf("Salary for %s has been updated\n", this.name);
         this.salary = salary;
 
-        if(this.salary >= this.age * 1000) {
+        if (this.salary >= this.age * 1000) {
             this.isHappy = true;
-        }
-        else {
+        } else {
             this.isHappy = false;
         }
 
@@ -43,16 +37,16 @@ public class Employee extends Person {
 
     public void setPhone(Phone mobile) {
 
-        if(mobile.owner != null) {
+        if (mobile.owner != null) {
             System.out.println("Phone has owner! " + mobile.owner.name);
-        }
-        else {
+        } else {
             this.mobile = mobile;
             mobile.owner = this;
         }
     }
 
     public void print() {
-        System.out.printf("Hello! I am employee! My name = %s, age = %d, sex = %s, salary = %d, happy = %b\n", this.name, this.age, this.sex, this.salary, this.isHappy);
+        System.out.printf("Hello! I am employee! My name = %s, age = %d, sex = %s, salary = %d, happy = %b\n",
+                this.name, this.age, this.sex, this.salary, this.isHappy);
     }
 }

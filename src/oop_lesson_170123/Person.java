@@ -1,5 +1,7 @@
 package oop_lesson_170123;
 
+import java.util.Objects;
+
 public class Person {
 
     String name;
@@ -13,14 +15,8 @@ public class Person {
     public Person(String name, int age, String sex) {
         this.name = name;
 
-        if(age < 0) {
-            this.age = 0;
-        }
-        else {
-            this.age = age;
-        }
-
-        if(sex == "female" || sex == "male") {
+        this.age = Math.max(age, 0);
+        if (Objects.equals(sex, "female") || Objects.equals(sex, "male")) {
             this.sex = sex;
         }
     }

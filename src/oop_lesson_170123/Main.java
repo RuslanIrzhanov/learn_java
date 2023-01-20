@@ -49,8 +49,8 @@ public class Main {
         System.out.println(e1.getSalary());
         e1.print();
         */
-
-        Phone ph1 = new Phone("79172063447", "iPhone XR", 35000);
+        // Work with phones
+        /*Phone ph1 = new Phone("79172063447", "iPhone XR", 35000);
         ph1.printInfo();
 
         Employee e3 = new Employee(45, 50000, "Vasilisa", 25, "female");
@@ -68,6 +68,15 @@ public class Main {
         Employee e4 = new Employee(56, 75000, "Marina", 33, "female");
         e4.print();
 
-        e4.setPhone(ph1);
+        e4.setPhone(ph1);*/
+        // Create senior
+        Senior s1 = new Senior(123, 75000, "Alla", 27, "female");
+        s1.print();
+        System.out.println(s1.getBonus());
+
+        s1.changeSalary(100000);
+        s1.print();
+        System.out.println(s1.getBonus());
+
     }
 }
