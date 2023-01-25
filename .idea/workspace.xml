@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c05cd88a-a64b-42f7-83d3-6c0b2a91ead8" name="Changes" comment="Add comment">
-      <change afterPath="$PROJECT_DIR$/src/oop_lesson_190123_triangle/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop_lesson_190123_triangle/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop_lesson_190123_triangle/TriangleComparing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays_240123/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays_240123/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays_240123/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays_240123/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays_240123/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays_240123/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays_240123/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn_base/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop_lesson_190123_Cake/Cake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop_lesson_190123_Cake/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,18 +44,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/learn_base" />
@@ -57,13 +65,13 @@
       <recent name="$PROJECT_DIR$/src/home_work_120123" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.oop_lesson_190123_triangle.Main">
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tasks.Factorial" />
+  <component name="RunManager" selected="Application.Task5">
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays_240123.Task1" />
       <module name="learn_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tasks.*" />
+          <option name="PATTERN" value="arrays_240123.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop_lesson_170123.Main" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays_240123.Task2" />
       <module name="learn_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop_lesson_170123.*" />
+          <option name="PATTERN" value="arrays_240123.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oop_lesson_190123.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop_lesson_190123.Main" />
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays_240123.Task3" />
       <module name="learn_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop_lesson_190123.*" />
+          <option name="PATTERN" value="arrays_240123.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oop_lesson_190123_animals.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop_lesson_190123_animals.Main" />
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays_240123.Task4" />
       <module name="learn_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop_lesson_190123_animals.*" />
+          <option name="PATTERN" value="arrays_240123.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oop_lesson_190123_triangle.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop_lesson_190123_triangle.Main" />
+    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays_240123.Task5" />
       <module name="learn_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop_lesson_190123_triangle.*" />
+          <option name="PATTERN" value="arrays_240123.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.oop_lesson_190123_triangle.Main" />
-        <item itemvalue="Application.oop_lesson_190123_animals.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.oop_lesson_190123.Main" />
-        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.Task5" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +152,8 @@
       <workItem from="1673801454708" duration="8693000" />
       <workItem from="1673972665992" duration="10002000" />
       <workItem from="1674056875251" duration="5580000" />
-      <workItem from="1674228848105" duration="18671000" />
+      <workItem from="1674228848105" duration="24021000" />
+      <workItem from="1674584695977" duration="13052000" />
     </task>
     <task id="LOCAL-00001" summary="Add comment">
       <created>1673802727591</created>
@@ -223,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674244982604</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add comment">
+      <created>1674247788406</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1674247788406</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,6 +292,15 @@
           <properties class="java.util.InputMismatchException" package="java.util" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays_240123/Task1.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
