@@ -10,4 +10,4 @@ https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb
 
 
 Книги для прочтения:
-// тут будет список кник
+// тут будет список книг
