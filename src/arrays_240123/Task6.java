@@ -12,8 +12,8 @@ public class Task6 {
      */
 
     public static void sortArray(int[] array) {
-        int max_elem = 0;
-        int min_elem = 0;
+        int max_elem = array[0];
+        int min_elem = array[0];
 
         for (int i : array) {
             if (i > max_elem) max_elem = i;
