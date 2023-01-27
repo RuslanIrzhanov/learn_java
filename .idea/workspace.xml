@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c05cd88a-a64b-42f7-83d3-6c0b2a91ead8" name="Changes" comment="Add comment">
-      <change beforePath="$PROJECT_DIR$/src/arrays_240123/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays_240123/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/queue_260123/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/queue_260123/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/queue_260123/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/queue_260123/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,14 +59,17 @@
       <recent name="$PROJECT_DIR$/src/home_work_100123" />
       <recent name="$PROJECT_DIR$/src/home_work_120123" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="queue_260123" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Task6">
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays_240123.Task2" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="queue_260123.Main" />
       <module name="learn_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays_240123.*" />
+          <option name="PATTERN" value="queue_260123.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Task6" />
         <item itemvalue="Application.Task5" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.Task2" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +151,7 @@
       <workItem from="1673972665992" duration="10002000" />
       <workItem from="1674056875251" duration="5580000" />
       <workItem from="1674228848105" duration="24021000" />
-      <workItem from="1674584695977" duration="17091000" />
+      <workItem from="1674584695977" duration="28131000" />
     </task>
     <task id="LOCAL-00001" summary="Add comment">
       <created>1673802727591</created>
@@ -244,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674678631637</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Add comment">
+      <created>1674679498352</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1674679498352</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
