@@ -50,6 +50,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/out" />
       <recent name="$PROJECT_DIR$/src/learn_base" />
       <recent name="$PROJECT_DIR$/src/home_work_291222" />
       <recent name="$PROJECT_DIR$/src/home_work_100123" />
@@ -59,7 +60,7 @@
       <recent name="queue_260123" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Task4">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="queue_260123.Main" />
       <module name="learn_java" />
@@ -127,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Task6" />
         <item itemvalue="Application.Task5" />
         <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Task4" />
       </list>
     </recent_temporary>
   </component>
@@ -149,6 +150,7 @@
       <workItem from="1674228848105" duration="24021000" />
       <workItem from="1674584695977" duration="28209000" />
       <workItem from="1674836066335" duration="53000" />
+      <workItem from="1674836127021" duration="498000" />
     </task>
     <task id="LOCAL-00001" summary="Add comment">
       <created>1673802727591</created>
@@ -262,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674813855704</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Add comment">
+      <created>1674836157805</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1674836157805</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
