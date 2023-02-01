@@ -10,9 +10,9 @@ public class Task11 {
     */
 
     public static void printMatrix(int[][] matrix) {
-        for (int i = 0; i < matrix.length; i++) {
-            for (int j = 0; j < matrix[i].length; j++) {
-                System.out.printf("%d ", matrix[i][j]);
+        for (int[] ints : matrix) {
+            for (int anInt : ints) {
+                System.out.printf("%d ", anInt);
             }
             System.out.println();
         }
@@ -47,6 +47,4 @@ public class Task11 {
         swapSecondAndLastColumn(matrix);
         printMatrix(matrix);
     }
-
-
 }
