@@ -1,4 +1,4 @@
-package tasks;
+package interviewTasks;
 
 import java.util.Scanner;
 
