@@ -1,4 +1,4 @@
-# learn_java
+# java
 
 Хороший курс по основам Java (есть продолжение на платформе coursera)
 https://youtube.com/playlist?list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak 
